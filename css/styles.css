@@ -1,0 +1,100 @@
+
+
+textarea {
+font-family: sans-serif;
+color: #798777
+}
+
+body {
+  font-size: 100%;
+  background-color: #F8EDE3;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #A2B29F;
+  font-family: sans-serif;
+
+}
+
+h2 {
+  font-size: 1.875em;
+  color: #A2B29F;
+  font-family: sans-serif;
+
+}
+
+h3 {
+  font-size: 0.875em;
+  color: #A2B29F;
+  font-family: sans-serif;
+
+}
+
+p {
+  font-size: 0.875em;
+  color: #798777;
+  font-family: sans-serif;
+
+}
+
+hr {
+border-width: 3px;
+width: 60%;
+align-content: center;
+border-style: dotted none none;
+color: #BDD2B6;
+font-family: sans-serif;
+opacity: 50%;
+
+}
+.header {
+  margin-bottom: 0;
+}
+
+.subheader {
+    margin-top: 0;
+}
+
+.top {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20%;
+}
+
+.top {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.body {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.bottom {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Roundededge {
+border-radius: 30%;
+}
+
+.logo {
+width: 50px;
+height: auto;
+}
